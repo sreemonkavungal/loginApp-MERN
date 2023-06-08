@@ -1,7 +1,7 @@
 # loginApp-MERN
 This is a full-stack login application built using the MERN stack (MongoDB, Express, React, and Node.js). The app allows users to register an account and securely log in with their email and password.
 
-#Features \n
+#Features\n
 User registration: Users can create an account by providing their email address and password.
 User login: Registered users can securely log in to access their account.
 Password hashing: User passwords are hashed using bcrypt for enhanced security.
