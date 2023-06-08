@@ -11,4 +11,6 @@ This is a full-stack login application built using the MERN stack (MongoDB, Expr
 
 click to visit website : https://loginapp-mern.pages.dev/
 
+![SignIn](https://github.com/sreemonkavungal/loginApp-MERN/assets/90373393/d5e4ac38-143e-483d-8eca-8336e6e21bf5)
 
+![SignUp](https://github.com/sreemonkavungal/loginApp-MERN/assets/90373393/7844828a-3225-4610-af79-413459f42c8a)
