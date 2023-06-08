@@ -1,3 +1,4 @@
+# loginApp-MERN
 This is a full-stack login application built using the MERN stack (MongoDB, Express, React, and Node.js). The app allows users to register an account and securely log in with their email and password.
 
 #Features
@@ -9,3 +10,5 @@ This is a full-stack login application built using the MERN stack (MongoDB, Expr
  Error handling: Proper error handling and response messages are implemented for various scenarios. MongoDB database: User information is stored and retrieved from a MongoDB database using Mongoose for data modeling and interactions.
 
 click to visit website : https://loginapp-mern.pages.dev/
+
+
